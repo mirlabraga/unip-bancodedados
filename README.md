@@ -19,26 +19,25 @@ A proposta desta disciplina é que os seus alunos tenham não somente o conhecim
 
                 I – EMENTA
 
-            Evolução dos SGBDs. Arquitetura geral dos SGBDs. Modelagem de dados. Modelo ER. Modelo Relacional. 
-            As formas normais. Normalização. Linguagens de definição e manipulação de dados. Álgebra e cálculo 
+            Evolução dos SGBDs. Arquitetura geral dos SGBDs. Modelagem de dados. 
+            Modelo ER. Modelo Relacional. As formas normais. Normalização. 
+            Linguagens de definição e manipulação de dados. Álgebra e cálculo 
             relacional. Operações com relações e mapeamento para SQL.
 
                 II – OBJETIVOS GERAIS
 
 
-            Familiarizar o aluno com as tecnologias e metodologias para desenvolvimento de aplicações de maior 
-            grau de complexidade.
+            Familiarizar o aluno com as tecnologias e metodologias para 
+            desenvolvimento de aplicações de maior grau de complexidade.
 
 
                 III – OBJETIVOS ESPECÍFICOS 
 
-            Capacitar o aluno a implementar soluções utilizando bancos de dados apresentando as diversas 
-            tecnologias da área.
+            Capacitar o aluno a implementar soluções utilizando bancos de dados 
+            apresentando as diversas tecnologias da área.
 
 
                 IV – CONTEÚDO PROGRAMÁTICO
-
- 
 
             Sistemas de Gerência de Bancos de Dados (SGBDs):
 
@@ -86,6 +85,8 @@ A proposta desta disciplina é que os seus alunos tenham não somente o conhecim
                  
                  30/04 - Primeira Avaliação (5 pontos)
                  01/05 - Entrega do Trabalho (5 pontos)
+                 
+                 15/06 - Entrega do Trabalho (5 pontos)
                  
                  
  
